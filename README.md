@@ -3,13 +3,13 @@ This project performs Exploratory Data Analysis (EDA) on student performance dat
 
 🗂 Dataset
 The dataset used is student_scores.csv, which contains the following key features:
-Gender
-EthnicGroup
-ParentEduc (Parent's Level of Education)
-ParentMaritalStatus
-MathScore
-ReadingScore
-WritingScore
+Gender,
+EthnicGroup,
+ParentEduc (Parent's Level of Education),
+ParentMaritalStatus,
+MathScore,
+ReadingScore,
+WritingScore.
 
 📌 Objectives
 Analyze the demographic distribution of students.
